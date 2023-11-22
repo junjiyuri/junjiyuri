@@ -1,11 +1,10 @@
-
 ### Helo, world! 🌎
 
 ![Junji GitHub stats](https://github-readme-stats.vercel.app/api?username=junjiyuri&show_icons=true&theme=radical)
 
 ### Tecnologias 💻
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -15,11 +14,18 @@
 
 ### OS 💻
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"><br/>
 <div/>
+
+### Aprendizagem 📙
+
+<div style="display: inline_block">
+    <img align="center" alt="Linux" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<div/>
+
 
 ### Contato 📲
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junji_yuri/)
