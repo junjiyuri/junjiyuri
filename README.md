@@ -13,7 +13,7 @@
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><br/>
 <div/>
 
-### Sistemas Operacionais
+### OS 💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
