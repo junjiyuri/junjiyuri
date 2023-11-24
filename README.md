@@ -1,4 +1,4 @@
-### Helo, world! 🌎
+### Hello world! 🌎
 
 ![Junji GitHub stats](https://github-readme-stats.vercel.app/api?username=junjiyuri&show_icons=true&theme=radical)
 
